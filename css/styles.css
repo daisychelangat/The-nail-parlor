@@ -1,0 +1,89 @@
+h1{
+    font-size: 50px;
+    line-height:40px ;
+    color:black;
+    
+
+    
+}
+h2{
+    font-size: 35px;
+    color:dark red;
+}
+h3{
+    font-size: 30px;
+    color: black;
+}
+img{
+    width:100px;
+    height:100px;
+}
+.nail{
+    width: 600px;
+    height:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    color: darkblue;
+    border: 3px solid green;
+    margin-right: auto;
+
+    
+}
+#logo{
+    width: 10px;
+    height: 10px;
+    
+}
+.logo{
+    position: absolute;
+    top: 200px;
+    width: 100px;
+    height:100px;
+    display: inline-block;
+    float: none;
+    
+
+}
+.one{
+    display: inline-block;
+    text-align: center;
+    list-style-position:inside ;
+    background-color: white;
+    color: darkblue;
+
+}
+
+body{
+    background-color: pink;
+}
+.last{
+    height: 500px;
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.final{
+    float: right;
+    font: large;
+    
+}
+p{
+    width: auto;
+    margin: o auto;
+    text-align: justify;
+    background-color: white;
+    padding: 20px;
+    color: darkblue;
+    border-radius: 25px;
+    text-align-last: center;
+}
